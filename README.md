@@ -1,1 +1,1 @@
-This is Lab 5 is for Patricia Surf.
+This is Lab 5 for Patricia Surf on PHP and MySQL.
